@@ -89,9 +89,3 @@ body {
     background-image: var(--stripesDark), var(--rainbow);
 }
 
-.logo{
-    width: 45px;
-    margin-left: 20px;
-    box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
-}
